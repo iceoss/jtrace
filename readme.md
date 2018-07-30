@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/iceoss/jtrace.svg?branch=master)](https://travis-ci.org/iceoss/jtrace/builds)
+[![Build Status](https://travis-ci.org/iceoss/jtrace.svg?branch=master)](https://travis-ci.org/iceoss/jtrace/builds)  [![codecov](https://codecov.io/gh/iceoss/jtrace/branch/master/graph/badge.svg)](https://codecov.io/gh/iceoss/jtrace)
 
 # JTrace Java Profiler
 
