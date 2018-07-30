@@ -1,3 +1,5 @@
+![Build Status](https://travis-ci.org/iceoss/jtrace.svg?branch=master)
+
 # JTrace Java Profiler
 
 JTrace is a lightweight, low-overhead CPU profiling agent for Java applications. Currently it only profiles method executions and tracks # of invocations, method own time and method total time of the methods included for profiling.
