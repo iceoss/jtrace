@@ -34,7 +34,7 @@ The agent has been designed for use in local/staging/build environments to provi
 
 ## Downloads
 
-- [jtrace-dist-0.0.1.jar](....)
+- [jtrace-dist-0.0.1.jar](https://github.com/iceoss/jtrace/raw/master/dist/jtrace-dist-0.0.1.jar)
 
 ## Profiling Java Applications
 
