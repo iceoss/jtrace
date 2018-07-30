@@ -32,7 +32,7 @@ public class MethodExecutionTimerTest {
 	/**
 	 * Allowance time
 	 */
-	private static final long ALLOWANCE_MS = 3;
+	private static final long ALLOWANCE_MS = 15;
 
 	/**
 	 * Verifies the method execution time properly tracks methods executions
