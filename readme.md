@@ -75,9 +75,9 @@ The agent has been designed for use in local/staging/build environments to provi
 - **interval=1000**: Defines the time in milliseconds in which the profile data will be published (default 5000)
 - **publisher=[file|s3]**: Defines how the metrics will be published (default file)
 - **file=profile.bin**: Defines the file which profiling data will be written to
-- **s3region=region**: The region the S3 bucket exists in (required is publisher=s3)
-- **s3bucket=bucket**: The bucket to publish to (required is publisher=s3)
-- **s3key=key**: The S3 key to publish to (required is publisher=s3)
+- **s3region=region**: The region the S3 bucket exists in (required if publisher=s3)
+- **s3bucket=bucket**: The bucket to publish to (required if publisher=s3)
+- **s3key=key**: The S3 key to publish to (required if publisher=s3)
 
 ## Agent Argument Notes
 
