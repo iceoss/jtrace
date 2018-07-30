@@ -1,6 +1,6 @@
 env:
   global:
-    - CODECOV_TOKEN=:6c3e169f-e4ed-42fb-b53a-d1bc9a37d427
+    - CODECOV_TOKEN=6c3e169f-e4ed-42fb-b53a-d1bc9a37d427
 language: java
 script: "mvn verify"
 after_success:
